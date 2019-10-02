@@ -1,12 +1,12 @@
 //algo
 const net = require('net');
 
-/*
+
 const server = net.createServer((conexion)=>{
     conexion.write("Echo server!!");
     conexion.pipe(conexion);
 });
-*/
+
 
 
 

@@ -16,6 +16,3 @@ client.on('data', (data)=>{
 client.on('close', ()=>{
     console.log('Se ha cerrado la conexión.');
 });
-
-
-//hacer chat
